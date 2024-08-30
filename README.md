@@ -22,13 +22,13 @@ The SSDS GitHub organization is designed to enhance collaboration and streamline
 
 ### Getting Started
 - Clone a Repository: To get a local copy, use:
-##### git checkout -b feature/your-feature-name
+##### git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 - Setup Instructions: Each repository includes a README.md file with specific setup instructions.
 
 ### How to Contribute
 - Fork the Repo: Fork the repository you want to contribute to.
 - Create a Feature Branch: Create a new branch for your changes:
-##### git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+##### git checkout -b feature/your-feature-name
 - Make Your Changes: Implement your updates or new features.
 - Commit Your Changes: Make sure to write clear commit messages:
 ##### git add .
